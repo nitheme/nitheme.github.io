@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nitheme.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-18T13:40:19.752Z</updated>
+    <title>Nitheme</title>
+    <updated>2020-03-18T15:12:21.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nitheme.github.io"/>
     <link rel="self" href="https://nitheme.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://nitheme.github.io/images/avatar.png</logo>
     <icon>https://nitheme.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Nitheme</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nitheme.github.io/post/hello-gridea/</id>
-        <link href="https://nitheme.github.io/post/hello-gridea/">
+        <id>https://nitheme.github.io/hello-gridea/</id>
+        <link href="https://nitheme.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
